@@ -1,0 +1,8 @@
+{
+  "name": "sharons-pet-rescue",
+  "version": "1.0.0",
+  "description": "The Sharon’s Pet Rescue helps match user to animals available for adoption. The program shows the animal’s name, species, and tiredness.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
